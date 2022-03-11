@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChallengeChapter2</string>
+    <string name="transfer">Transfer</string>
+    <string name="topup">Top Up</string>
+    <string name="request">Request</string>
+    <string name="ride">GoRide</string>
+    <string name="car">GoCar</string>
+    <string name="food">GoFood</string>
+    <string name="send">GoSend</string>
+    <string name="mart">GoMart</string>
+    <string name="pulsa">GoPulsa</string>
+    <string name="point">GoPoints</string>
+    <string name="more">More</string>
+    <string name="home">Home</string>
+    <string name="promo">Promos</string>
+    <string name="order">Orders</string>
+    <string name="chat">Chat</string>
+    <string name="find">Find service,food or places</string>
+    <string name="xp">92 XP to your next treasure</string>
+    <string name="quick">Quick actions</string>
+    <string name="voucher">2 vouchers expiring soon</string>
+    <string name="resto">Resto near me</string>
+</resources>
